@@ -1,0 +1,13 @@
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\bin\Release\BmiRechner.exe.config
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\bin\Release\BmiRechner.exe
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\bin\Release\BmiRechner.pdb
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\MainWindow.g.cs
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\App.g.cs
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner_MarkupCompile.cache
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner_MarkupCompile.lref
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\MainWindow.baml
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner.g.resources
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner.Properties.Resources.resources
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner.csproj.GenerateResource.Cache
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner.exe
+e:\clemens\dokumente\visual studio 2015\Projects\BmiRechner\BmiRechner\obj\Release\BmiRechner.pdb
